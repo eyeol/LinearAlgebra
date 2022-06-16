@@ -1,4 +1,4 @@
-# Elimination with Matrices
+# Elimination with Matrices_adv
 
 N = int(input("행의 개수: "))
 
