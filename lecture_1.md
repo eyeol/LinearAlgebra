@@ -37,8 +37,8 @@ $$
 Column Picture(열의 관점)에서는 어떠할까.
 
 $$
-x \left[\begin{matrix} 2 \\ -1\end{matrix}\right] + y \left[\begin{matrix} -1 \\ 2\end{matrix}\right]
-= \left[\begin{matrix} 0 \\ 3\end{matrix}\right]
+x [\begin{matrix} 2 \\ -1\end{matrix}] + y [\begin{matrix} -1 \\ 2\end{matrix}]
+= [\begin{matrix} 0 \\ 3\end{matrix}]
 $$
 
 <br>
@@ -109,11 +109,11 @@ $$
 
 <br>
 
-$
+$$
 x\left[\begin{matrix} 2 \\ -1 \\0 \end{matrix}\right] + y\left[\begin{matrix} -1 \\ 2 \\-3\end{matrix}\right]
 +z\left[\begin{matrix} 0 \\ -1 \\ 4\end{matrix}\right]= \left[\begin{matrix} 0 \\ -1 \\ 4\end{matrix}\right]
 \,\,\,\,\Longrightarrow \,\,\,\, AX = b\\ \, \\  \\A=\left[\begin{matrix} 2 && -1 && 0 \\ -1 && 2 && -1 \\ 0 && -3 && 4\end{matrix}\right]\,\,\,\,\,X=\left[\begin{matrix}x\\y\\z\end{matrix}\right]  \,\,\,\, \,\, b= \left[\begin{matrix}0\\-1\\4\end{matrix}\right]
-$
+$$
 
 <br>
 
