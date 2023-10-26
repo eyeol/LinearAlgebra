@@ -37,8 +37,10 @@ $$
 Column Picture(열의 관점)에서는 어떠할까.
 
 $$
-x\left[\begin{matrix} 2 \\ -1 \\\end{matrix}\right] + y\left[\begin{matrix} -1 \\ 2 \\\end{matrix}\right]
+
+x \left[\begin{matrix} 2 \\ -1 \\\end{matrix}\right] + y \left[\begin{matrix} -1 \\ 2 \\\end{matrix}\right]
 = \left[\begin{matrix} 0 \\ 3 \\\end{matrix}\right]
+
 $$
 
 <br>
