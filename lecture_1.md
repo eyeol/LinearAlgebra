@@ -1,5 +1,3 @@
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-
 Lecture 1: The Geometry of Linear Equations
 =======
 
@@ -17,7 +15,7 @@ Lecture 1: The Geometry of Linear Equations
 
 
 $$
-2x - y = 0 \\\\
+2x - y = 0 \\\\\\
 -x + 2y = 3
 $$
 
@@ -63,8 +61,8 @@ Column Picture(열의 관점)에서 연립방정식은 Column Vectors(열 벡터
 ## 3. Row&Column Picture in 3-dim
 
 $$
-2x-y=0 \\\\
--x+2y-z=-1 \\\\
+2x-y=0 \\\\\\
+-x+2y-z=-1 \\\\\\
 -3y+4z=4x
 $$
 
@@ -114,7 +112,7 @@ $$
 $$
 x\left[\begin{matrix} 2 \\\\ -1 \\\\ 0 \end{matrix}\right] + y\left[\begin{matrix} -1 \\\\ 2 \\\\-3\end{matrix}\right]
 +z\left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]= \left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]
-\,\,\,\, \Longrightarrow \,\,\,\, AX = b\\\\ \, \\\\  \\ A=\left[\begin{matrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{matrix}\right]\,\,\,\,\,X=\left[\begin{matrix}x\\\\ y\\\\ z\end{matrix}\right]  \,\,\,\, \,\, b= \left[\begin{matrix}0\\\\-1\\\\4\end{matrix}\right]
+\,\,\,\, \Longrightarrow \,\,\,\, AX = b \\\\\\ \, \\\\  \\ A=\left[\begin{matrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{matrix}\right]\,\,\,\,\,X=\left[\begin{matrix}x\\\\ y\\\\ z\end{matrix}\right]  \,\,\,\, \,\, b= \left[\begin{matrix}0\\\\-1\\\\4\end{matrix}\right]
 $$
 
 <br>
