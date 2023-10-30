@@ -70,9 +70,6 @@ $$
 \end{matrix}
 $$
 
-$2x-y=0$ <br>
-$-x+2y-z=-1$ <br>
-$-3y+4z=4x$ <br>
 
 위와 같이 3개의 방정식과 3개의 변수를 가진 일차연립방정식을 Row Picture로 해석해보자.
 
@@ -115,12 +112,16 @@ $$
 
 ## 4. Matrix Form
 
-<br>
 
-$x\begin{bmatrix} 2 \\\\ -1 \\\\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\\\ 2 \\\\ -3\end{bmatrix}
+$$
+\begin{matrix}
+x\begin{bmatrix} 2 \\\\ -1 \\\\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\\\ 2 \\\\ -3\end{bmatrix}
 +z\begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}= \begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}
- \Longrightarrow  AX = b$ <br>
-$A=\begin{bmatrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{bmatrix} \,\,\,\,\,\, X=\begin{bmatrix}x \\\\ y \\\\ z\end{bmatrix} \,\,\,\,\,\,  b= \begin{bmatrix}0 \\\\ -1 \\\\ 4\end{bmatrix}$
+ \Longrightarrow  AX = b \\\\
+
+A=\begin{bmatrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{bmatrix} \,\,\,\,\,\, X=\begin{bmatrix}x \\\\ y \\\\ z\end{bmatrix} \,\,\,\,\,\,  b= \begin{bmatrix}0 \\\\ -1 \\\\ 4\end{bmatrix}
+\end{matrix}
+$$
 
 <br>
 
