@@ -114,13 +114,13 @@ $$
 <br>
 
 $$
-\begin{equation}
-x\left[\begin{matrix} 2 \\\\ -1 \\\\ 0 \end{matrix}\right] + y\left[\begin{matrix} -1 \\\\ 2 \\\\ -3\end{matrix}\right]
-+z\left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]= \left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]
+\begin{matrix}
+x\begin{bmatrix} 2 \\\\ -1 \\\\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\\\ 2 \\\\ -3\end{bmatrix}
++z\begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}= \begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}
  \Longrightarrow  AX = b \\\\
 
-A=\left[\begin{matrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{matrix}\right] \,\,\,\,\,\, X=\left[\begin{matrix}x \\\\ y \\\\ z\end{matrix}\right] \,\,\,\,\,\,  b= \left[\begin{matrix}0 \\\\ -1 \\\\ 4\end{matrix}\right]
-\end{equation}
+A=\begin{bmatrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{bmatrix} \,\,\,\,\,\, X=\begin{bmatrix}x \\\\ y \\\\ z\end{bmatrix} \,\,\,\,\,\,  b= \begin{bmatrix}0 \\\\ -1 \\\\ 4\end{bmatrix}
+\end{matrix}
 $$
 
 <br>
