@@ -117,13 +117,10 @@ $$
 
 <br>
 
-$$
-x\begin{bmatrix} 2 \\\\ -1 \\\\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\\\ 2 \\\\ -3\end{bmatrix}
+$x\begin{bmatrix} 2 \\\\ -1 \\\\ 0 \end{bmatrix} + y \begin{bmatrix} -1 \\\\ 2 \\\\ -3\end{bmatrix}
 +z\begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}= \begin{bmatrix} 0 \\\\ -1 \\\\ 4\end{bmatrix}
- \Longrightarrow  AX = b \\\\
-
-A=\begin{bmatrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{bmatrix} \,\,\,\,\,\, X=\begin{bmatrix}x \\\\ y \\\\ z\end{bmatrix} \,\,\,\,\,\,  b= \begin{bmatrix}0 \\\\ -1 \\\\ 4\end{bmatrix}
-$$
+ \Longrightarrow  AX = b$ <br>
+$A=\begin{bmatrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{bmatrix} \,\,\,\,\,\, X=\begin{bmatrix}x \\\\ y \\\\ z\end{bmatrix} \,\,\,\,\,\,  b= \begin{bmatrix}0 \\\\ -1 \\\\ 4\end{bmatrix}$
 
 <br>
 
