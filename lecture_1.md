@@ -120,7 +120,7 @@ x\left[\begin{matrix} 2 \\\\ -1 \\\\ 0 \end{matrix}\right] + y\left[\begin{matri
 $$
 
 $$
-A=\left[\begin{matrix} 2 && -1 && 0 \\ -1 && 2 && -1 \\ 0 && -3 && 4\end{matrix}\right] X=\left[\begin{matrix}x \\ y \\ z\end{matrix}\right]   b= \left[\begin{matrix}0 \\ -1 \\ 4\end{matrix}\right]
+A=\left[\begin{matrix} 2 && -1 && 0 \\\\ -1 && 2 && -1 \\\\ 0 && -3 && 4\end{matrix}\right] X=\left[\begin{matrix}x \\\\ y \\\\ z\end{matrix}\right]   b= \left[\begin{matrix}0 \\\\ -1 \\\\ 4\end{matrix}\right]
 $$
 
 <br>
