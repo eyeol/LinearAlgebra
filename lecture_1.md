@@ -114,9 +114,11 @@ $$
 <br>
 
 $$
+\begin{matrix}
 x\left[\begin{matrix} 2 \\\\ -1 \\\\ 0 \end{matrix}\right] + y\left[\begin{matrix} -1 \\\\ 2 \\\\ -3\end{matrix}\right]
 +z\left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]= \left[\begin{matrix} 0 \\\\ -1 \\\\ 4\end{matrix}\right]
  \Longrightarrow  AX = b
+ \end{matrix}
 $$
 
 $$
