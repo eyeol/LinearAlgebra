@@ -7,7 +7,7 @@ Lecture 1: The Geometry of Linear Equations
 선형대수는 본질적으로 연립일차방정식의 Solution(해)를 구하는 학문이다.
 
 일반적으로 연립방정식은 n개의 방정식에 n개의 변수가 주어지는데,<br>
-연립일차방정식을 바라보는 관점(Picture)에 따라 수학적인 해석이 달라진다.
+연립일차방정식을 바라보는 기하학적 관점(Picture)에 따라 수학적인 해석이 달라진다.
 <br>
 <br>
 
